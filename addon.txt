@@ -1,0 +1,6 @@
+{
+	"title": "nZombies TFA Balance",
+	"type": "ServerContent",
+	"tags": [ "fun", "weapons" ],
+	"ignore": []
+}
